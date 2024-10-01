@@ -6,17 +6,15 @@
     color: #b98b06;
 }
 
-/* Default styles for large screens */
+
 h2 {
     font-size: 24px;
 }
-/* Styles for small screens (xs) */
 @media (max-width: 768px) {
     .col-sm-4 h2 {
         font-size: 18px;
     }
 }
-/* Styles for extra small screens (xs) */
 @media (max-width: 480px) {
     .col-xs-4 h2 {
         font-size: 14px;
