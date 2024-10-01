@@ -2,6 +2,10 @@
     background-color: #000000;
 }
 
+.bg-yellow{
+    background-color: #e3ae10;
+}
+
 .TitleText{
     color: #b98b06;
 }
@@ -20,4 +24,46 @@ h2 {
     .col-xs-4 h2 {
         font-size: 16px;
     }
+}
+
+.nav-left-ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+    overflow: hidden;
+}
+.nav-left-li{
+    float: left;
+}
+.nav-left-li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 8px;
+    text-decoration: none;
+}
+.nav-left-li a:hover{
+    background-color: #b98b06;
+    color: white;
+}
+
+.nav-right-ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+    overflow: hidden;
+}
+.nav-right-li{
+    float: right;
+}
+.nav-right-li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 8px;
+    text-decoration: none;
+}
+.nav-right-li a:hover{
+    background-color: #b98b06;
+    color: white;
 }
