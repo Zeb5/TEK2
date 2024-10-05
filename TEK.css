@@ -113,3 +113,16 @@ hr{
     background-color: black;
     border: none;
 }
+
+.img-table{
+    margin: 0 auto;
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+.img-table img{
+    border: none;
+    transition: transform 0.2s;
+}
+.img-table img:hover{
+    transform: scale(1.10);
+}
