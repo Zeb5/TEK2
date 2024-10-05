@@ -75,13 +75,27 @@ h2 {
 }
 
 .padding-nav{
-    padding-top: 111px;
+    padding-top: 181px;
+    margin-left: 50px;
 }
+
 .image-formatting{
     border: 2px solid black;
     border-radius: 15px;
-    margin-left: 20px;
+    margin-left: -20px;
     box-sizing: border-box;
     height: 300px;
     width: auto;
+}
+
+.info{
+    font-family: Verdana,Helvetica;
+    font-size: 12px;
+}
+.info p{
+    margin: 0;
+}
+.info a{
+    font-weight: bold;
+    color: #333333;
 }
