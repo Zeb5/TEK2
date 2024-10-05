@@ -87,6 +87,13 @@ h2 {
     height: 300px;
     width: auto;
 }
+.image-right{
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+.image-top{
+    margin-top: 200px;
+}
 
 .info{
     font-family: Verdana,Helvetica;
@@ -98,4 +105,9 @@ h2 {
 .info a{
     font-weight: bold;
     color: #333333;
+}
+
+hr{
+    height: 2px;
+    background-color: black;
 }
