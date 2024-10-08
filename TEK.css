@@ -80,6 +80,19 @@ h2 {
     padding-right: 30px;
 }
 
+.padding-nav-big{
+    padding-top: 281px;
+    margin-left: 50px;
+    padding-right: 30px;
+}
+
+.padding-nav-bar-left{
+    padding-left: 30px;
+}
+.padding-nav-bar-right{
+    padding-right: 30px;
+}
+
 .image-formatting{
     border: 2px solid black;
     border-radius: 25px;
@@ -106,6 +119,10 @@ h2 {
 .info a{
     font-weight: bold;
     color: #333333;
+}
+
+.main-text{
+    padding-left: 10px;
 }
 
 hr{
