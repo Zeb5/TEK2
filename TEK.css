@@ -75,6 +75,7 @@ h3 {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    display: block;
 }
 
 .padding-nav{
@@ -127,7 +128,7 @@ h3 {
 .main-text{
     padding-left: 10px;
     font-size: 15px;
-    width: 800px;
+    /*width: 800px;*/
 }
 
 hr{
