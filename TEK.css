@@ -1,5 +1,5 @@
 .bg-black{
-    background-color: #000000;
+    background-color: black;
 }
 
 .bg-yellow{
@@ -129,6 +129,9 @@ h3 {
     padding-left: 10px;
     font-size: 15px;
     /*width: 800px;*/
+}
+.main-text a{
+    color: black;
 }
 
 hr{
