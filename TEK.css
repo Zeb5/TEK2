@@ -83,8 +83,8 @@ h3 {
     padding-right: 30px;
 }
 
-.padding-nav-big{
-    padding-top: 281px;
+.padding-nav-nagy{
+    padding-top: 221px;
     margin-left: 50px;
     padding-right: 30px;
 }
@@ -127,6 +127,7 @@ h3 {
 .main-text{
     padding-left: 10px;
     font-size: 15px;
+    width: 800px;
 }
 
 hr{
