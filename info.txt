@@ -1,1 +1,77 @@
-http://tek.gov.hu/doc/racalmas_kozlemeny.pdf
+<a href="pdf/kozlemeny1.pdf">Közlemény1</a>, <a href="pdf/kozlemeny2.pdf">Közlemény2</a>, <a href="pdf/kozlemeny3.pdf">Közlemény3</a><br>
+<a href="video/josvafo_media_1_5_perc.mpg">Jósvafő vágott videó</a>, <a href="pictures/Josfafo_fotok.zip">Jósvafő fotók</a>
+<br><br>
+<hr size="1"><br>
+<b>
+<a href="video/21_06_01_terror.mpg">TEK elfogás Kecskemét 20210601</a>
+</b>
+<br><br>
+<b>
+<hr size="1"><br>
+<a href="pdf/BanyaMentesiGyakorlat.pdf">Bányából történő mentési gyakorlatot tartott a TEK</a>
+</b>
+<br><br>
+<b>
+<hr size="1"><br>
+<a href="pdf/Díszparancs.pdf">Magyarország belügyminiszterének díszparancsa</a>
+</b>
+<br><br>
+<hr size="1"><br>
+<b>Mindennapi biztonság - Kézikönyv</b>
+<br><br>
+<a href="pdf/mindennapi_biztonsag_kezikonyv.epub">Mindennapi biztonság - Kézikönyv.epub</a>
+<br>
+<a href="pdf/mindennapi_biztonsag_kezikonyv.pdf">Mindennapi biztonság - Kézikönyv.pdf</a>
+<br><br>
+
+<hr size="1"><br>
+<b><h3>Hableány hajóroncs mentési munkálatai (Hableány rescue work)</h3></b><br>
+<a href="video/Kiemeles_video_2019.06.11.mpg">Kiemelés videó 2019.06.11. (Lifting procedure video 11.06.2019)</a><br>
+<a href="audio/Sajtotajekoztato_hanganyag_2019.06.12.mp3">Sajtótájékoztató hanganyag 2019.06.12. (Press conference audio 12.06.2019.)</a><br>
+<br>
+<a href="video/clark_adam_vagokepek.mpg">Vessel formation (video) 09.06.2019.</a><br>
+<a href="pdf/Kozlemeny_legterkorlatozas.pdf">Sajtóközlemény 2019.06.09.</a><br>
+<a href="pdf/Press_release09.06.2019.pdf">Press release 09.06.2019.</a><br>
+<a href="pictures/Legterkorlatozas_grafikaja_1.png">Légtérzár grafikája_1 (Picture of airspace closure Nr.1)</a><br>
+<a href="pictures/Legterkorlatozas_grafikaja_2.png">Légtérzár grafikája_2 (Picture of airspace closure Nr.2)</a><br>
+<a href="pdf/press_conference_scrip_2019_06_08.pdf">Press conference script 08.06.2019.</a><br>
+<a href="video/19_06_08_sajtotajekoztato.mp4">Press conference video 08.06.2019.</a><br>
+<a href="pictures/Emeloheveder.jpg">Emelő heveder 2019.06.07. (Strap 07.06.2019.) </a><br>
+<a href="pdf/ClarkAdam_hajobeallasiterv.pdf">Clark Ádám hajóbeállási terv 2019.06.07. (Positioning plan 07.06.2019.)</a><br>
+<a href="pdf/Press_conference_06.06.2019.pdf">Press conference script 06.06.2019.</a><br>
+<a href="video/19_06_06_sajtotajekoztato.mp4">Press conference video 06.06.2019.</a><br>
+<a href="pdf/A_Terrorelharitasi_Kozpont_kozlemenye.pdf">Sajtóközlemény 2019.06.05.</a><br>
+<a href="pdf/Communication_of_the_Counter_Terrorism_Centre.pdf">Press release 05.06.2019.</a><br>
+<br>
+<a href="pdf/sajtokozlemeny190604.pdf">Sajtóközlemény 2019.06.04.</a><br>
+<a href="pdf/pressrelease040619.pdf">Press release 04.06.2019.</a><br>
+<br>
+<a href="pdf/Sajtojekoztato_leirat_2019.06.03.pdf">Sajtótájékoztató leirat 2019.06.03.</a><br>
+<a href="pdf/Press_conference_script_03.06.2019.pdf">Press conference script 03.06.2019.</a><br>
+<a href="video/sajtotajekoztato.mp4">Press conference video 03.06.2019.</a><br>
+<a href="pdf/ATerrorelharitasiKozpontKozlemenye20190603.pdf">Sajtóközlemény 2019.06.03.</a><br>
+<a href="pdf/CommunicationoftheCounterTerrorismCentre03-06-2019.pdf">Press release 03.06.2019.</a><br>
+<br>
+<b>Felvételek (Recording)</b><br>
+<br>
+<a href="video/mentes_3.mpg">Felderítő merülés (Exploratory dive - video recording 04.06.2019.)</a><br>
+<a href="video/tesztmerules2.mpg">Tesztmerülés 2 - videó (2nd test dive - video recording)</a><br>
+<a href="video/tesztmerules1.mpg">Tesztmerülés 1 - videó (1th test dive - video recording)</a><br>
+<a href="video/latasi_viszonyok_a_vizben.mpg">Látási viszonyok a vízben - videó (Visibility in the water - video recording)</a><br>
+<a href="pictures/sonarkepek.zip">Szonár képek (Sonar pictures)</a><br>
+<a href="video/Hajo_dron.mp4">Drónfelvétel – Katasztrófavédelem (Video recording with drone - National Directorate General for Disaster Management)</a><br>
+<a href="video/Vizi_felvetelek.mp4">Vízi felvétel ORFK (Video recording from boat - Hungarian National Police Headquarters)</a><br>
+<br>
+<br>
+<hr size="1"><br>
+<b>Kísérés</b><br>
+<br>
+<a href="video/19_03_24_kiseres_HASSAN.mpg">Kísérés 2019.03.24.</a><br>
+<a href="video/19_03_22_kiseres_HASSAN.mpg">Kísérés 2019.03.22.</a><br>
+<br>
+<br>
+<hr size="1"><br>
+<b>Dokumentumok:</b>
+<br><br>
+<a href="pdf/ERTESITESI_ADATOK_URLAPMINTAJA.docx">Értesítési adatkérő űrlap</a>
+<br><br>
