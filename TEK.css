@@ -10,7 +10,6 @@
     color: #b98b06;
 }
 
-
 h2 {
     font-size: 32px;
     font-family: 'Courier New', monospace;
@@ -24,6 +23,10 @@ h2 {
     .col-xs-4 h2 {
         font-size: 16px;
     }
+}
+
+h3 {
+    font-size: 28px;
 }
 
 .nav-left-ul{
@@ -111,7 +114,7 @@ h2 {
 
 .info{
     font-family: Verdana,Helvetica;
-    font-size: 12px;
+    font-size: 15px;
 }
 .info p{
     margin: 0;
@@ -123,6 +126,7 @@ h2 {
 
 .main-text{
     padding-left: 10px;
+    font-size: 15px;
 }
 
 hr{
@@ -142,4 +146,8 @@ hr{
 }
 .img-table img:hover{
     transform: scale(1.10);
+}
+
+.nagyob-text{
+    font-size: 20px;
 }
