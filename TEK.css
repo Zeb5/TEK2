@@ -162,13 +162,12 @@ h3 a:hover{
 .main-text-info li{
     list-style-type: none;
 }
-.main-text-info li a{
+.main-text-info a{
     color: black;
 }
-.main-text-info li a:hover{
+.main-text-info a:hover{
     color: black;
 }
-
 
 hr{
     height: 1px;
