@@ -1,8 +1,9 @@
 
-<a href="pdf/szabalyzat_e_alairas_belyegzo.pdf">- Elektronikus Aláírási És Elektronikus Bélyegzési Szabályzata</a><br>
-<a href="pdf/Elektronikus_alairasi_es_elektronikus_belyegzesi_szabalyzat_2.pdf">- Elektronikus Aláírási És Elektronikus Bélyegzési Szabályzata2</a><br>
-<a href="pdf/szabalyzat_info.pdf">- Információátadási Szabályzata</a><br>
-<a href="pdf/szabalyzat_masolatkeszítesi.pdf">- Másolatkészítési Szabályzata</a><br>
-<a href="pdf/masolatkeszitesi_szabalyzat_modositott.pdf">- Másolatkészítési szabályzat_módosított</a><br>
-<a href="pdf/masolatkeszitesi3.pdf">- Másolatkészítési Szabályzata 3</a><br>
-<br><br>
+<span class="AS"><h2>Customer information</h2><br>
+<a href="pdf/electronicrequestforaccesstodata.pdf">- Submitting an electronic request for access to data of public interest or data public on grounds of public interest</a><br>
+<a href="pdf/Submittinganelectronicrequestforaccesstonationalclassifieddata.pdf">- Submitting an electronic request for access to national classified data</a><br>
+<a href="pdf/Submittingpersonaldatainformationrequestselectronically.pdf">- Submitting personal data information requests electronically</a><br>
+<a href="pdf/Submittingacompensationclaim.pdf">- Submitting a compensation claim</a><br>
+<a href="pdf/Submittingcomplaints.pdf">- Submitting complaints, public interest disclosures electronically to the police</a><br>
+<a href="pdf/Submittingaproceedingavoidanceclaimelectronically.pdf">- Submitting a proceeding avoidance claim electronically</a><br>
+<a href="pdf/Submittinganelectroniccomplaintagainstpolicemeasures.pdf">- Submitting an electronic complaint against police measures</a><br>
