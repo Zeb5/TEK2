@@ -138,6 +138,19 @@ h3 a:hover{
     font-weight: bold;
     color: #333333;
 }
+.info a:hover{
+    font-weight: bold;
+    color: #333333;
+}
+.info-2 li a{
+    color: red;
+    font-weight: bold;
+}
+.info-2 li a:hover{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
 
 .main-text{
     padding-left: 10px;
@@ -146,6 +159,16 @@ h3 a:hover{
 .main-text a{
     color: black;
 }
+.main-text-info li{
+    list-style-type: none;
+}
+.main-text-info li a{
+    color: black;
+}
+.main-text-info li a:hover{
+    color: black;
+}
+
 
 hr{
     height: 1px;
