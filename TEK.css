@@ -222,6 +222,10 @@ hr{
     margin-left: 10px;
 }
 
+.kisseb-width{
+    width: 650px;
+}
+
 .no-bullet{
     list-style-type: none;
 }
