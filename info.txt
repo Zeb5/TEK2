@@ -1,0 +1,8 @@
+
+<a href="pdf/szabalyzat_e_alairas_belyegzo.pdf">- Elektronikus Aláírási És Elektronikus Bélyegzési Szabályzata</a><br>
+<a href="pdf/Elektronikus_alairasi_es_elektronikus_belyegzesi_szabalyzat_2.pdf">- Elektronikus Aláírási És Elektronikus Bélyegzési Szabályzata2</a><br>
+<a href="pdf/szabalyzat_info.pdf">- Információátadási Szabályzata</a><br>
+<a href="pdf/szabalyzat_masolatkeszítesi.pdf">- Másolatkészítési Szabályzata</a><br>
+<a href="pdf/masolatkeszitesi_szabalyzat_modositott.pdf">- Másolatkészítési szabályzat_módosított</a><br>
+<a href="pdf/masolatkeszitesi3.pdf">- Másolatkészítési Szabályzata 3</a><br>
+<br><br>
